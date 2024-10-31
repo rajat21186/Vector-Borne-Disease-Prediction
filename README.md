@@ -1,0 +1,1 @@
+We developed a model for early detection of vector-borne diseases using patient symptoms as input features. Through exploratory data analysis (EDA) and PCA, we identified key features to improve accuracy and tested five machine learning models with extensive hyperparameter tuning.
